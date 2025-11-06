@@ -93,3 +93,5 @@ Once GitHub Pages is configured with `/docs` as the source:
 - Terms of Service: `https://vibecoder95.github.io/PallyMatch_Legal_Policy_v1/terms-of-service.html`
 
 - Account Deletion: `https://vibecoder95.github.io/PallyMatch_Legal_Policy_v1/account-deletion.html`
+- Child Safety: `https://vibecoder95.github.io/PallyMatch_Legal_Policy_v1/child-safety-standards.html`
+
